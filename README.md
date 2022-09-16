@@ -2,7 +2,7 @@
 
 The Ermer Beeper is a very neat continuity tester or beeper. This one is VERY fast and also faster than the most multimeters. No display, no LED, no switch. Just a speaker to beep you through your circuit. Based on a gread scientist [Christof Ermer](https://homepages.uni-regensburg.de/~erc24492/)
 
-<img src="manual/images/thumbnail.jpg" width=400px alt="Ermer Beeper">
+<img src="images/thumbnail.jpg" width=400px alt="Ermer Beeper">
 
 - Status: **Complete**
 - Difficulty: **2/5**
